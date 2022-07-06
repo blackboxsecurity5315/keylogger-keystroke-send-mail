@@ -1,2 +1,3 @@
 # keylogger-keystroke-send-mail
-Smart keylogger that records the keystrokes and send it to gmail
+Smart keylogger program built on Python
+It will send emails after recording keys.
